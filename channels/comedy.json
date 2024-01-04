@@ -1,0 +1,267 @@
+{
+    "channelname": "Comedy",
+    "channelnumber": "2",
+    "channellogo": "",
+    "ordered": "True",
+    "enabled": "True",
+    "commercials": "True",
+    "mediatypes": ["tv","movie"],
+    "channelTemplate": [
+        {
+            "day": "sunday",
+            "start": "02:00",
+            "end": "06:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "sunday",
+            "start": "06:00",
+            "end": "12:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["tv"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "sunday",
+            "start": "12:00",
+            "end": "18:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["movie"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "sunday",
+            "start": "18:00",
+            "end": "02:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["movie"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "monday",
+            "start": "02:00",
+            "end": "06:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "monday",
+            "start": "06:00",
+            "end": "12:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["tv"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "monday",
+            "start": "12:00",
+            "end": "14:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["movie"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "monday",
+            "start": "14:00",
+            "end": "18:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["tv"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "monday",
+            "start": "18:00",
+            "end": "02:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["movie"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "tuesday",
+            "start": "02:00",
+            "end": "06:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "tuesday",
+            "start": "06:00",
+            "end": "12:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["tv"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "tuesday",
+            "start": "12:00",
+            "end": "14:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["movie"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "tuesday",
+            "start": "14:00",
+            "end": "18:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["tv"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "tuesday",
+            "start": "18:00",
+            "end": "02:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["movie"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "wednesday",
+            "start": "02:00",
+            "end": "06:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "wednesday",
+            "start": "06:00",
+            "end": "12:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["tv"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "wednesday",
+            "start": "12:00",
+            "end": "14:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["movie"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "wednesday",
+            "start": "14:00",
+            "end": "18:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["tv"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "wednesday",
+            "start": "18:00",
+            "end": "02:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["movie"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "thursday",
+            "start": "02:00",
+            "end": "06:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "thursday",
+            "start": "06:00",
+            "end": "12:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["tv"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "thursday",
+            "start": "12:00",
+            "end": "02:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["movie"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "friday",
+            "start": "02:00",
+            "end": "06:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "friday",
+            "start": "06:00",
+            "end": "12:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["tv"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "friday",
+            "start": "12:00",
+            "end": "14:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["movie"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "friday",
+            "start": "14:00",
+            "end": "18:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["tv"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "friday",
+            "start": "18:00",
+            "end": "02:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["movie"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "saturday",
+            "start": "02:00",
+            "end": "06:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "saturday",
+            "start": "06:00",
+            "end": "12:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["tv"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "saturday",
+            "start": "12:00",
+            "end": "14:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["movie"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "saturday",
+            "start": "14:00",
+            "end": "18:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["tv"],
+            "genres": ["Comedy"]
+        },
+        {
+            "day": "saturday",
+            "start": "18:00",
+            "end": "02:00",
+            "ratingAllowed": ["G", "PG", "PG-13"],
+            "mediaType": ["movie"],
+            "genres": ["Comedy"]
+        }
+    ]
+}

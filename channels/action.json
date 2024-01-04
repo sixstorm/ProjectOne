@@ -1,0 +1,123 @@
+{
+    "channelname": "Action",
+    "channelnumber": "7",
+    "channellogo": "",
+    "ordered": "True",
+    "enabled": "True",
+    "commercials": "False",
+    "mediatypes": ["movie"],
+    "channelTemplate": [
+        {
+            "day": "sunday",
+            "start": "02:00",
+            "end": "06:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "sunday",
+            "start": "06:00",
+            "end": "02:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["movie"],
+            "genres": ["Action"]
+        },
+        {
+            "day": "monday",
+            "start": "02:00",
+            "end": "06:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "monday",
+            "start": "06:00",
+            "end": "02:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["movie"],
+            "genres": ["Action"]
+        },
+        {
+            "day": "tuesday",
+            "start": "02:00",
+            "end": "06:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "tuesday",
+            "start": "06:00",
+            "end": "02:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["movie"],
+            "genres": ["Action"]
+        },
+        {
+            "day": "wednesday",
+            "start": "02:00",
+            "end": "06:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "wednesday",
+            "start": "06:00",
+            "end": "02:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["movie"],
+            "genres": ["Action"]
+        },
+        {
+            "day": "thursday",
+            "start": "02:00",
+            "end": "06:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "thursday",
+            "start": "06:00",
+            "end": "02:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["movie"],
+            "genres": ["Action"]
+        },
+        {
+            "day": "friday",
+            "start": "02:00",
+            "end": "06:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "friday",
+            "start": "06:00",
+            "end": "02:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["movie"],
+            "genres": ["Action"]
+        },
+        {
+            "day": "saturday",
+            "start": "02:00",
+            "end": "06:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "saturday",
+            "start": "06:00",
+            "end": "02:00",
+            "ratingAllowed": ["G", "PG", "PG-13", "R"],
+            "mediaType": ["movie"],
+            "genres": ["Action"]
+        }
+    ]
+}

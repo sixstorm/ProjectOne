@@ -1,0 +1,123 @@
+{
+    "channelname": "John Wick",
+    "channelnumber": "6",
+    "channellogo": "",
+    "ordered": "True",
+    "enabled": "True",
+    "commercials": "False",
+    "mediatypes": ["movie"],
+    "channelTemplate": [
+        {
+            "day": "sunday",
+            "start": "04:00",
+            "end": "06:00",
+            "ratingAllowed": "",
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "sunday",
+            "start": "06:00",
+            "end": "03:00",
+            "ratingAllowed": "",
+            "mediaType": ["movie"],
+            "genres": ""
+        },
+        {
+            "day": "monday",
+            "start": "04:00",
+            "end": "06:00",
+            "ratingAllowed": "",
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "monday",
+            "start": "06:00",
+            "end": "03:00",
+            "ratingAllowed": "",
+            "mediaType": ["movie"],
+            "genres": ""
+        },
+        {
+            "day": "tuesday",
+            "start": "04:00",
+            "end": "06:00",
+            "ratingAllowed": "",
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "tuesday",
+            "start": "06:00",
+            "end": "03:00",
+            "ratingAllowed": "",
+            "mediaType": ["movie"],
+            "genres": ""
+        },
+        {
+            "day": "wednesday",
+            "start": "04:00",
+            "end": "06:00",
+            "ratingAllowed": "",
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "wednesday",
+            "start": "06:00",
+            "end": "03:00",
+            "ratingAllowed": "",
+            "mediaType": ["movie"],
+            "genres": ""
+        },
+        {
+            "day": "thursday",
+            "start": "04:00",
+            "end": "06:00",
+            "ratingAllowed": "",
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "thursday",
+            "start": "06:00",
+            "end": "03:00",
+            "ratingAllowed": "",
+            "mediaType": ["movie"],
+            "genres": ""
+        },
+        {
+            "day": "friday",
+            "start": "04:00",
+            "end": "06:00",
+            "ratingAllowed": "",
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "friday",
+            "start": "06:00",
+            "end": "03:00",
+            "ratingAllowed": "",
+            "mediaType": ["movie"],
+            "genres": ""
+        },
+        {
+            "day": "saturday",
+            "start": "04:00",
+            "end": "06:00",
+            "ratingAllowed": "",
+            "mediaType": ["offair"],
+            "genres": ""
+        },
+        {
+            "day": "saturday",
+            "start": "06:00",
+            "end": "03:00",
+            "ratingAllowed": "",
+            "mediaType": ["movie"],
+            "genres": ""
+        }
+    ]
+}
